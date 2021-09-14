@@ -21,11 +21,11 @@
 
 ## About
 
-This is a **solid path** for those of you who want to complete a **Bioinformatics** course on your own time, **for free**, with courses from the **best universities** in the World.
+This is a **solid path** for those of you who want to complete a **Junior Software Developer** accelerated course on your own time, **for free**, by  **professionals in the field** of the World.
 
 In our curriculum, we give preference to MOOC (Massive Open Online Course) style courses because these courses were created with our style of learning in mind.
 
-To become a bioinformatician, you have to learn quite a lot of science, so be ready for subjects like; Biology, Chemistry, etc...
+To become a Junior Software Developer, you have to learn quite a lot of computer science high level topics, so be ready for subjects like; linux, Database, cloud, devops,  etc...
 
 ## Motivation & Preparation
 
@@ -41,12 +41,12 @@ The second link is a MOOC that will teach you learning techniques used by expert
 
 **Are you ready to get started?**
 
-## Curriculum
+## Syllabus
 
 ### 1st Level
 
 Code | Course | Duration | Effort
-:-- | :--: | :--: | :--:
+:-- | :-- | :-- | :--
 JSD 100 | [English for software developers](#) | 1 week | 7-14 Hours/Week
 JSD 101 | [Introduction to Linux](#) | 1 week | 7-14 Hours/Week
 JSD 102 | [Introduction to Git](#) | 1 week | 7-14 Hours/Week
@@ -55,21 +55,19 @@ JSD 103 | [Introduction to Docker](#) | 1 week | 7-14 Hours/Week
 ### 2nd Level
 
 Code | Course | Duration | Effort
-:-- | :--: | :--: | :--:
+:-- | :-- | :-- | :--
 JSD 104 | [Introduction to cloud platforms](#) | 1 week | 7-14 Hours/Week
 JSD 105 | [Heroku](#) | 1 week | 7-14 Hours/Week
 
-### 3nd Level
+### 3rd Level
 
 Code | Course | Duration | Effort
-:-- | :--: | :--: | :--:
+:-- | :-- | :-- | :--
 JSD 106 | [Introduction to Relational Databases (RDBMS)](#) | 1 week | 7-14 Hours/Week
 JSD 107 | [Mysql](#) | 1 week | 7-14 Hours/Week
 JSD 108 | [Postgress](#) | 1 week | 7-14 Hours/Week
 
 ---
-
-![keep learning](http://i.imgur.com/REQK0VU.jpg)
 
 ## How to use this guide
 
