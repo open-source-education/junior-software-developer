@@ -14,7 +14,7 @@
 - [How to use this guide](#how-to-use-this-guide)
 - [Prerequisite](#prerequisite)
 - [How to collaborate](#how-to-collaborate)
-- [Team](#team)
+- [Contributors](#contributors)
 - [References](#references)
 
 ## About
@@ -242,7 +242,7 @@ You can also interact through [GitHub issues](https://github.com/open-source-soc
 
 Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) and join our [Facebook](https://www.facebook.com/groups/opensourcesocietyu/) group! -->
 
-## Team
+## Contributors
 
 <!-- * **Curriculum Founder**: [Enes Kemal Ergin](https://github.com/eneskemalergin)
 * **Curriculum Maintainer**: [Enes Kemal Ergin](https://github.com/eneskemalergin)
@@ -253,8 +253,7 @@ Add **Open Source Society University** to your [Linkedin](https://www.linkedin.c
     <td align="center">
       <img src="https://avatars0.githubusercontent.com/u/3322836?s=460&v=4" width="100px;"/>
       <br />
-      <label><a href="http://jrichardsz.github.io/">JRichardsz</a></label><br>
-      <label>Founder</label>
+      <label><a href="http://jrichardsz.github.io/">JRichardsz</a></label>
       <br />
     </td>    
   </tbody>
