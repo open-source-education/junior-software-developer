@@ -54,8 +54,8 @@ Also here a motivational video that shows a guy that went through the "MIT Chall
 Code | Course | Duration | Effort
 :-- | :-- | :-- | :--
 JSD 100 | [English for software developers](#) | 1 week | 7-14 Hours/Week
-JSD 101 | [Introduction to Linux](#) | 1 week | 7-14 Hours/Week
-JSD 102 | [Introduction to Git](#) | 1 week | 7-14 Hours/Week
+JSD 101 | [Introduction to Git](#) | 1 week | 7-14 Hours/Week
+JSD 102 | [Introduction to Linux](#) | 1 week | 7-14 Hours/Week
 JSD 103 | [Introduction to Docker](#) | 1 week | 7-14 Hours/Week
 JSD 104 | [Introduction to Nodejs](#) | 1 week | 7-14 Hours/Week
 
@@ -109,7 +109,7 @@ The second link is a MOOC that will teach you learning techniques used by expert
 
 This guide was developed to be consumed in a linear approach. What does this mean? That you should complete one course at a time.
 
-The courses are **already** in the order that you should complete them. Just start the first course, [Introduction to Biology](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-2), when you done with it, start the next one.
+The courses are **already** in the order that you should complete them. Just start the first course, [English for software developers](#), when you done with it, start the next one.
 
 **If the course is not open, do it with the archived resources or wait until next class is open.**
 
