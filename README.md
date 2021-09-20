@@ -53,8 +53,8 @@ Also here a motivational video that shows a guy that went through the "MIT Chall
 
 Code | Course | Duration | Effort
 :-- | :-- | :-- | :--
-JSD 100 | [English for software developers](#) | 1 week | 7-14 Hours/Week
-JSD 101 | [Introduction to Git](#) | 1 week | 7-14 Hours/Week
+JSD 100 | [English for software developers](./jsd-100) | 1 week | 7-14 Hours/Week
+JSD 101 | [Introduction to Git](./jsd-101) | 1 week | 7-14 Hours/Week
 JSD 102 | [Introduction to Linux](#) | 1 week | 7-14 Hours/Week
 JSD 103 | [Introduction to Docker](#) | 1 week | 7-14 Hours/Week
 JSD 104 | [Introduction to Nodejs](#) | 1 week | 7-14 Hours/Week
