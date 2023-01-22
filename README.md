@@ -72,7 +72,8 @@ Code | Course | Duration | Effort
 :-- | :-- | :-- | :--
 JSD 303 | [Introduction to Relational Databases (RDBMS)](#) | 1 week | 7-14 Hours/Week
 JSD 304 | [Mysql](#) | 1 week | 7-14 Hours/Week
-JSD 305 | [Postgress](#) | 1 week | 7-14 Hours/Week
+JSD 305 | [Postgres](#) | 1 week | 7-14 Hours/Week
+JSD 306 | [Mysql CRUD with Python](./jsd-306) | 1 week | 7-14 Hours/Week
 
 ### 4rd Level
 
