@@ -64,7 +64,7 @@ As all forms of software development should be accessible to an international pr
 Use the following syllabus to search more free or private courses.
 
 - [English for computer science](http://www3.uji.es/~bbelles/II14/II14programa.pdf)
-- [English Plus Computer Science](https://www.edgehill.ac.uk/efl/files/2019/03/COURSE-DESCRIPTION-ENGLISH-PLUS-COMPUTER-SCIENCE.pdf)
+- [English Plus Computer Science](https://www.edgehill.ac.uk/wp-content/uploads/documents/COURSE-DESCRIPTION-ENGLISH-PLUS-COMPUTER-SCIENCE.pdf)
 
 ## Private Resources & Courses
 
