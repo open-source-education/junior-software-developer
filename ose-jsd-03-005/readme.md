@@ -4,4 +4,4 @@
 
 This course is available in the following languages
 
-- [English](./readme_EN)
+- [English](./en)
